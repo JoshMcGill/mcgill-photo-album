@@ -3,18 +3,11 @@
 
 // list all the img names that you want to be albums
 var albumImages = [
-    { path: "img001.png", title: "Cinque Terra", url: "assets/album-covers/albums/cinque-terra/index.html" },
-    { path: "img002.png", title: "Edinburgh", url: "" },
-    { path: "img003.png", title: "Versailles", url: "" },
-    { path: "img004.png", title: "Ancey", url: "" },
-    { path: "img005.png", title: "Torino", url: "" },
-    { path: "img006.png", title: "Geneva", url: "" },
-    { path: "img007.png", title: "London", url: "" },
-    { path: "img008.png", title: "Berlin", url: "" },
-    { path: "img009.png", title: "Madrid", url: "" },
-    { path: "img010.png", title: "Normandy", url: "" },
-    { path: "img011.png", title: "Bath", url: "" },
-    { path: "img012.png", title: "Paris", url: "" }
+    { path: "img001.png", title: "Temple", url: "assets/album-covers/albums/marriage/index.html" },
+    { path: "img002.png", title: "Luncheon", url: "assets/album-covers/albums/luncheon/index.html" },
+    { path: "img003.png", title: "Ring Ceremony", url: "assets/album-covers/albums/ringceremony/index.html" },
+    { path: "img004.png", title: "Reception", url: "assets/album-covers/albums/reception/index.html" },
+    { path: "img005.png", title: "Send Off", url: "assets/album-covers/albums/sendoff/index.html" }
 ];
 // Can you make this more effecient/dynamic?
 
